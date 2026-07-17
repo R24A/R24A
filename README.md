@@ -16,11 +16,7 @@ I am an engineering student passionate about blending industrial engineering pri
 * **[Political Data Sentiment Analysis](link-to-repo):** An end-to-end data pipeline built in R that scrapes social media data to analyze and visualize public political sentiment.
 * **[Fixed-Wing UAV Development](link-to-repo):** Documentation and simulation data for drone development challenges, focusing on payload optimization and aerodynamic stability.
 
-### 📫 Connect with Me
-* [LinkedIn](www.linkedin.com/in/rithvik-arun-720472282)
-* [Email](rithvikarun081@gmail.com)!--
-
 - 🔭 I’m currently working on 
-** IPO Prospectus Risk Analysis using RAG **
-** Quantifying Corporate Sentiment: Statistical Text Analysis in Financial Markets **
+* ** IPO Prospectus Risk Analysis using RAG **
+* ** Quantifying Corporate Sentiment: Statistical Text Analysis in Financial Markets **
   
