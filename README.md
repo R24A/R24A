@@ -17,6 +17,6 @@ I am an engineering student passionate about blending industrial engineering pri
 * **[Fixed-Wing UAV Development](link-to-repo):** Documentation and simulation data for drone development challenges, focusing on payload optimization and aerodynamic stability.
 
 ###🔭 I’m currently working on 
-* ** IPO Prospectus Risk Analysis using RAG **
-* ** Quantifying Corporate Sentiment: Statistical Text Analysis in Financial Markets **
+*  IPO Prospectus Risk Analysis using RAG 
+*  Quantifying Corporate Sentiment: Statistical Text Analysis in Financial Markets 
   
