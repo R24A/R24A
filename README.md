@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<**Industrial Engineering Student | Captain @ AeroCET | UAV & Data Enthusiast**
+**Industrial Engineering Student | Captain @ AeroCET | UAV & Data Enthusiast**
 
 I am an engineering student passionate about blending industrial engineering principles with data analytics, AI, and aerospace design. Whether I'm optimizing drone payloads, running CFD simulations, or scraping the web for data insights, I love building systems that solve complex problems.
 
@@ -12,7 +12,7 @@ I am an engineering student passionate about blending industrial engineering pri
 
 ### 🚀 Featured Projects
 
-* **[Bolt Detection System](link-to-repo):** An AI-driven computer vision model designed for automated hardware identification and bounding-box labeling. 
+* **[Bolt Detection System](https://github.com/R24A/BOLT_INSPECTION.git):** An AI-driven computer vision model designed for automated hardware identification and bounding-box labeling. 
 * **[Political Data Sentiment Analysis](link-to-repo):** An end-to-end data pipeline built in R that scrapes social media data to analyze and visualize public political sentiment.
 * **[Fixed-Wing UAV Development](link-to-repo):** Documentation and simulation data for drone development challenges, focusing on payload optimization and aerodynamic stability.
 
