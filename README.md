@@ -13,7 +13,7 @@ I am an engineering student passionate about blending industrial engineering pri
 ### 🚀 Featured Projects
 
 * **[Bolt Detection System](https://github.com/R24A/BOLT_INSPECTION.git):** An AI-driven computer vision model designed for automated hardware identification and bounding-box labeling. 
-* **[Political Data Sentiment Analysis](link-to-repo):** An end-to-end data pipeline built in R that scrapes social media data to analyze and visualize public political sentiment.
+* **[Political Data Sentiment Analysis](https://github.com/R24A/Political-Data-Sentiment-Analysis---Reddit-Webscraping-.git):** An end-to-end data pipeline built in R that scrapes social media data to analyze and visualize public political sentiment.
 * **[Fixed-Wing UAV Development](link-to-repo):** Documentation and simulation data for drone development challenges, focusing on payload optimization and aerodynamic stability.
 
 ### 🔭 I’m currently working on 
