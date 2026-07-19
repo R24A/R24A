@@ -5,7 +5,7 @@
 I am an engineering student passionate about blending industrial engineering principles with data analytics, AI, and aerospace design. Whether I'm optimizing drone payloads, running CFD simulations, or scraping the web for data insights, I love building systems that solve complex problems.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python, R
+* **Languages:** Python, R, C++
 * **AI & Computer Vision:** AI Model Training, Mobile SAM, Label Studio
 * **Engineering & Simulation:** OpenFOAM, Ansys Fluent, Fixed-Wing UAV Design
 * **Data & Analytics:** Web Scraping, Sentiment Analysis, Linear Programming
